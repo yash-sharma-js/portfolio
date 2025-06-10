@@ -7,10 +7,10 @@ import { Button } from '@/components/ui/button';
 
 const projectsData = [
   {
-    title: 'E-commerce Platform',
-    description: 'A full-stack e-commerce platform with product management, user authentication, shopping cart, and payment processing.',
-    technologies: ['React', 'Node.js', 'MongoDB', 'Express', 'Stripe API'],
-    githubUrl: '#',
+    title: 'Research Hub',
+    description: 'ResearchHub is a research platform with AI tools for paper discovery, recommendations, and collaboration. It uses Next.js (frontend), Node.js (backend), and Python (ML). It integrates Firebase (auth), MongoDB (DB), and APIs like OpenAI and Kaggle for advanced features.',
+    technologies: ['Next', 'Node.js', 'MongoDB', 'Express', 'Python', 'OpenAI API'],
+    githubUrl: 'https://github.com/yash-sharma-js/ResearchHub',
     liveUrl: '#',
   },
   {
