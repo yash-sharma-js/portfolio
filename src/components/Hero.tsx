@@ -30,7 +30,7 @@ const Hero = () => {
   // Terminal effect
   useEffect(() => {
     if (isTerminalMode && showText) {
-      terminalTextRef.current = "const developer = 'John Doe';";
+      terminalTextRef.current = "const developer = 'Yash Sharma';";
       let index = 0;
       
       const interval = setInterval(() => {
