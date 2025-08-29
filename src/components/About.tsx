@@ -61,9 +61,13 @@ const About = () => {
                 </div>
               ) : (
                 <div className="w-full h-full bg-gradient-to-br from-neon-blue/20 to-neon-purple/20 rounded-lg p-1">
-                  <div className="bg-dark-200 w-full h-full rounded-lg flex items-center justify-center">
-                    <img src="https://i.postimg.cc/cCyH4mg4/self.png" alt="" />
-                  </div>
+<div className="bg-light-200 w-full h-full rounded-lg flex items-center justify-center">
+  <img
+  src="https://i.postimg.cc/XYGJMqYg/photo.png"
+/>
+
+</div>
+
                 </div>
               )}
             </div>
